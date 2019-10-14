@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Jahez Bank</string>
+    <string name="Next">Next</string>
+    <string name="New_Customer">New Customer</string>
+    <string name="Bank_busy">Bank is busy</string>
+    <string name="Enjoy">Enjoy your coffee</string>
+    <string name="Write_customer_name">Write Name for Customer</string>
+</resources>
